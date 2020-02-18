@@ -1,0 +1,1 @@
+import{p as o,b as r}from"./p-fa2fe2d1.js";o().then(o=>r([["p-tgb0angx",[[1,"qr-code",{contents:[1],errorCorrectionLevel:[1,"error-correction-level"],margin:[2],scale:[2],colorDark:[1,"color-dark"],colorLight:[1,"color-light"],outputMode:[1,"output-mode"],data:[32]}]]]],o));
